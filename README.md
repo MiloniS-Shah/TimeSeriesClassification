@@ -27,8 +27,7 @@ BINARY CLASSIFICATION USING LOGISTIC REGRESSION
   Calculate the p-values for your logistic regression parameters and refit a logistic regression model using your pruned set of features.
   Performed Recursive Feature Elimination and 5-fold Cross Validation to determine best value of l.
   
- BINARY CLASSIFICATION USING L1-PENALIZED LOGISTIC REGRESSION \n
- MULTI-CLASS CLASSIFICATION
+ BINARY CLASSIFICATION USING L1-PENALIZED LOGISTIC REGRESSION                                                                                MULTI-CLASS CLASSIFICATION
   Build an L1-penalized multinomial regression model to classify all activities in your training set.
   
 
